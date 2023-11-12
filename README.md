@@ -4,19 +4,28 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository.svg)]([https://github.com/your-username/your-repository/](https://github.com/Terminatedzz/roblox-phishing-Working)stargazers)
 
-Short and captivating description of your project goes here. Highlight its key features and what makes it stand out.
+This is a roblox phishing source code i fixed :)
 
 ## 🌟 Features
 
-- ✨ Amazing Feature 1
-- ✨ Incredible Feature 2
-- ✨ Cutting-edge Feature 3
+- ✨ Follow me 
+- ✨ Get me 15 stars on this repo and i post a way better src
+- ✨ Star my other repos to
 
 ## 🚀 Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+1. find a free hosting or paid hosting like infinity free or any other ones
+2. upload files
+3. edit setup.php
+4. now go to UrDomain/generator.php
+5. ur site is now ready for action
+6. have fun triplehooking kiddos
 
-### Prerequisites
+### Contact me 
+discord: termed_dev
 
-What things you need to install and how to install them.
+## 📢 Code
 
+- php
+- javascript
+- html, css
