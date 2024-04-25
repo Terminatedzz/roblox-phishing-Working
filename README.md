@@ -1,6 +1,6 @@
 # Roblox Phishing
 
-**Dont use this source code right now some apis got suspended.**
+**Outdated | New Version --> https://github.com/Terminatedzz/roblox-phishing**
 
 🚀 **Setup** 🚀
 
