@@ -1,6 +1,6 @@
 # Roblox Phishing
 
-**Outdated | New Version --> https://github.com/Terminatedzz/roblox-phishing**
+**Outdated | New Version -> https://github.com/Terminatedzz/roblox-phishing**
 
 🚀 **Setup** 🚀
 
