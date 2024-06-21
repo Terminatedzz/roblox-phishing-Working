@@ -9,4 +9,4 @@ Termed speaking here.
 
 # enjoy this working fixed roblox phishing source code i guess.
 
-Need help setting up, join https://discord.gg/Dt5pN3B2Xj
+Need help setting up, join https://discord.gg/pJS5UUPcsU
