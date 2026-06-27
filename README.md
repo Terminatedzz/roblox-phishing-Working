@@ -1,6 +1,6 @@
 # Roblox Phishing
 
-**If your looking for a better version of this source code make sure to join the support server or message me on discord, contact info's are below ⬇️**
+**If your looking for a better version of this source code make sure to join the support server or message me on discord, Check below for more ⬇️**
 
 🚀 **Setup** 🚀
 
