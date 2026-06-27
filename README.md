@@ -1,7 +1,5 @@
 # Roblox Phishing
 
-**Outdated | New Version -> https://github.com/Terminatedzz/roblox-phishing**
-
 🚀 **Setup** 🚀
 
 [![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository.svg)]([https://github.com/your-username/your-repository/](https://github.com/Terminatedzz/roblox-phishing-Working)stargazers)
@@ -23,8 +21,9 @@ This is a roblox phishing source code i fixed :)
 5. ur site is now ready for action
 6. have fun triplehooking kiddos
 
-### Contact me 
+### Contact me + Support server
 discord: termed_dev
+support server: https://discord.gg/x66QFuDk8
 
 ## 📢 Code
 
